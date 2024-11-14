@@ -46,7 +46,7 @@
 
 #### 11. **Communication**
    - Use the Discussions or Issues tabs for questions and collaboration.
-   - For urgent issues, contact maintainers at [email@example.com].
+   - For urgent issues, contact maintainers at [].
 
 #### 12. **License**
    By contributing, you agree that your work will be licensed under the [MIT License](LICENSE).
