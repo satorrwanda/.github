@@ -7,8 +7,8 @@
    Please follow our [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) to ensure a respectful and collaborative environment.
 
 #### 3. **How to Contribute**
-   - **Bug Fixes**: Help us fix known issues or report new ones.
-   - **New Features**: Propose or implement features that enhance the project.
+   - **Bug Fixes**: You might be assigned  to fix known issues as a task or report new ones as an insight.
+   - **New Features**: Propose or be assigned to implement features that enhance the project.
    - **Documentation**: Improve the existing docs or add new sections for clarity.
    - **Enhancements**: Suggest optimizations or workflow improvements.
 
@@ -49,4 +49,4 @@
    - For urgent issues, contact maintainers at [].
 
 #### 12. **License**
-   By contributing, you agree that your work will be licensed under the [MIT License](LICENSE).
+   Our Projects will  be licensed under the [MIT License](LICENSE).
