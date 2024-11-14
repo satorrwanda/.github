@@ -61,7 +61,7 @@
 ## 11. **Communication**
    - **Task Progress**: Keep your project lead informed of progress and any blockers.
    - **Collaborate on Issues**: Use the Issues tab to propose new ideas or report problems for potential task assignments.
-   - **Urgent Matters**: Contact maintainers for critical concerns at [your-organization-email@example.com].
+   - **Urgent Matters**: Contact maintainers for critical concerns at [bertin.m2001@satorrwanda.rw].
 
 
 
