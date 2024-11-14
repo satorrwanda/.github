@@ -3,7 +3,7 @@
    This guide will walk you through our contribution process. Please focus on tasks assigned by the project lead, but you are also encouraged to open issues if you identify potential improvements. The project lead will review and assign these issues as tasks if approved.
 
 ## 2. **Code of Conduct**
-   Please review and follow our [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) to ensure a respectful and collaborative environment for all team members.
+   Please review and follow our [Code of Conduct]([https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://github.com/satorrwanda/.github/blob/main/CODE_OF_CONDUCT.md) to ensure a respectful and collaborative environment for all team members.
 
 
 
