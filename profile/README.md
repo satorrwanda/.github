@@ -13,7 +13,7 @@
    - **Enhancements**: Suggest optimizations or workflow improvements.
 
 #### 4. **Setting Up the Development Environment**
-   1. Clone the repository: `git clone https://github.com/username/repository-name.git`
+   1. Clone the repository: `git clone https://github.com/satorrwanda/repository-name.git`
    2. Install dependencies: `npm install` (or appropriate command for your project)
    3. Start the development server: `npm start`
 
