@@ -1,7 +1,7 @@
 ### Contribution Guidelines
 
 #### 1. **Welcome!**
-   We’re excited to have you contribute to **[Project Name]**! We welcome all forms of contributions, including code, documentation, bug reports, and ideas.
+   We’re excited to have you contributing here. We welcome all forms of contributions, including code, documentation, bug reports, and ideas.
 
 #### 2. **Code of Conduct**
    Please follow our [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) to ensure a respectful and collaborative environment.
