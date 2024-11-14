@@ -21,8 +21,8 @@
 
 
 ## 5. **Issue Reporting and Suggesting Improvements**
-   - **Report Task-Related Issues**: If you encounter bugs or blockers, document them and report to your team lead.
-   - **Open Improvement Issues**: If you identify an area for potential improvement, you can open an issue describing the suggestion in detail. The project lead will review and may assign it as a task if approved.
+   - **Report Task-Related Issues**: If you encounter bugs or blockers, document them and report them to your team lead.
+   - **Open Improvement Issues**: If you identify an area for potential improvement, you can open an issue describing the suggestion in detail. The project lead will review it and may assign it as a task if approved.
 
 
 
@@ -66,5 +66,5 @@
 
 
 ## 12. **License**
-   - **Internal Use Only**: This project is for internal use only. It is not shared publicly and does not require a public license.
+   - **Internal Use Only**: These projects are  for internal use only. They are  not shared publicly and does not require a public license.
 
